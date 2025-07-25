@@ -1,4 +1,4 @@
-#🐱 AstroCats: Task From the Citadel
+# 🐱 AstroCats: Task From the Citadel 🛸
 
 Imagine a future where cats, and only cats, have evolved to become the dominant species of the cosmos.
 In a forgotten corner of the multiverse, in Universe A175, humanity disappeared millennia ago, making way for a highly advanced feline civilization. But everything changed after the latest elections, the new president implemented a sinister project that assimilated the entire population into a collective mind, stealing cats' most precious essence, their individuality and creativity.
