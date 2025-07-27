@@ -8,12 +8,12 @@ Are you ready to join the feline resistance and help these furry heroes conquer 
 
 **Link to project:**
 
-## How It's Made:
+## How we built it
 
-**Tech used:** JAVA, Python, AI
+This game was developed in Java, combining AI-generated visuals with design work crafted using Adobe software.
 
 -----------------------------------------------------
 
- _💡This project was developed by Team 94 for the CS Girls H.I. vs A.I. Hackathon._
+ _💡This project was developed by Team 94 for the CS Girls H.I. vs A.I. Hackathon - Make Anything, But Make it YOU (Beginner-Friendly Track)._
 
 -----------------------------------------------------
