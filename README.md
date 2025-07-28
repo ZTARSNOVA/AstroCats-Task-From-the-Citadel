@@ -6,7 +6,7 @@ From the shadows of this oppressive regime, four rebel cats managed to escape ju
 Dive into this narrative and educational adventure where science fiction intertwines with programming logic. Through short but challenging missions, you'll guide these prodigious cats as they solve problems, hack corrupt systems, and uncover the secrets of code... all while seeking to reclaim freedom for their species.
 Are you ready to join the feline resistance and help these furry heroes conquer the multiverse... one line of code at a time? The future of cats depends on you!
 
-**Link video: ** https://youtu.be/xS2F8G-gMxE
+- 📹 Link video:  https://youtu.be/xS2F8G-gMxE
 
 
 ## How we built it
