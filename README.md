@@ -22,11 +22,11 @@ This game was developed in Java, combining AI-generated visuals with design work
 
 # CODE
 
-🐾 Problema 1: Code Rescue 
+- 🐾 Problema 1: Code Rescue 
 
-🛰️ Problem 2: *Optimize orbital jump*
+- 🛰️ Problem 2: *Optimize orbital jump*
 
-🚀 Problem 3: *Assimilator Helm – Consciousness Teleport*
+- 🚀 Problem 3: *Assimilator Helm – Consciousness Teleport*
 
 ### 🐾 **Problem 1: Code Rescue**
 
